@@ -18,6 +18,22 @@ Este projeto foi desenvolvido com o objetivo de praticar conceitos de automaçã
 
 ---
 
+💻 Execução no terminal
+
+O sistema rodando e buscando notícias em tempo real:
+
+![Projeto rodando](projeto_rodando.jpg)
+
+---
+
+📩 Resultado final (email)
+
+Exemplo do email automático enviado com as notícias:
+
+![Email recebido](email.jpg)
+
+---
+
 ## 🧠 Tecnologias Utilizadas
 
 * Python
